@@ -1,10 +1,5 @@
----
-title: "Python Programming"
-date: "2019-02-24"
----
 
-
-## Here are a brief summary of Python.
+## The contents in the jupyter notebook are a brief summary of Python.
 
 
 
