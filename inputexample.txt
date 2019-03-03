@@ -1,0 +1,2 @@
+I like Python as 
+            it's fast and simple
